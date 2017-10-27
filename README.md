@@ -23,7 +23,7 @@ $ sudo cp /path/to/virtualhost.sh /usr/local/bin/virtualhost
 
 ```bash
 $ cd /usr/local/bin
-$ wget -O virtualhost https://github.com/ankit-r00/vhost/master/virtualhost.sh
+$ wget -O virtualhost https://github.com/ankit-r00/vhost/blob/master/virtualhost.sh
 $ chmod +x virtualhost
 $ chmod +x virtualhost-nginx
 ```
